@@ -1,9 +1,9 @@
 public class Main {
-    Student student1=new Student();
-    Student student2=new Student();
-    Student student3=new Student();
-    Student student4=new Student();
-    Head_teacher head_teacher=new Head_teacher();
+    Student student1=new Student(Петя, Иванов, 21, 4, true);
+    Student student2=new Student(Мария, Лепешко, 18, 1, false);
+    Student student3=new Student(Виктор, Макаревич, 19, 2, true);
+    Student student4=new Student(Оксана, Петрова, 17, 1, true);
+    Head_teacher head_teacher=new Head_teacher(Мария, Жукова, 42);
 
 student1.say();
 student2.say();

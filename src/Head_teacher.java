@@ -5,7 +5,7 @@ public class Head_teacher {
 
 
     Head_teacher(){    }
-    Head_teacher(String name, String family, int age, int course) {
+    Head_teacher(String name, String family, int age) {
         this.name = name;
         this.family = family;
         this.age = age;
