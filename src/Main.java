@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String args[]) {
-        /*
+
         Student student1 = new Student("Петя", "Иванов", 20, 4, true);
         Student student2 = new Student("Мария", "Лепешко", 18, 1, false);
         Student student3 = new Student("Виктор", "Макаревич", 19, 2, true);
@@ -19,7 +19,7 @@ public class Main {
     }
 }
 
-         */
+         /*
         Book book1 = new Book(12, "Oruel1984", 1948);
         Book book2 = new Book(34, "Peace by Peace", 1952);
         Book book3 = new Book(23, "Marvel", 2010);
@@ -31,4 +31,4 @@ public class Main {
         library.printNameById(12);
 
         System.out.println();
-    }}
+    }}*/
