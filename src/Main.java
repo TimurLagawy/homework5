@@ -21,9 +21,9 @@ public class Main {
     }
 }
 
-         */
+         *//*
 
-         /*
+
         Book book1 = new Book(12, "Oruel1984", 1948);
         Book book2 = new Book(34, "Peace by Peace", 1952);
         Book book3 = new Book(23, "Marvel", 2010);
@@ -34,7 +34,7 @@ public class Main {
         Library library=new Library(books);
         library.printNameById(12);
 
-        System.out.println();
+        System.out.println(books);
     }}*/
         Customer customer1=new Customer(1,"Gvin","Tim","Jonovich","Minesota", 1234567,3017278);
         Customer customer2=new Customer(2,"Bonn", "Tom", "Georgievch", "Washingthon", 2345667,9865436);
@@ -57,5 +57,5 @@ public class Main {
         customers.add(customer9);
         Base_of_customers base_of_customers=new Base_of_customers(customers);
         Base_of_customers.printNameById(1);
-        System.out.println(customers);
+        System.out.println((customers));
        }}
