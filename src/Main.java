@@ -40,11 +40,11 @@ public class Main {
         Customer customer2=new Customer(2,"Bonn", "Tom", "Georgievch", "Washingthon", 2345667,9865436);
         Customer customer3=new Customer(3,"Edison", "Ann", "Abusovich", "New York", 6574382,7372892);
         Customer customer4=new Customer(4, "Jonson", "David", "Rubinovich", "Israel", 466738,9276345);
-        Customer customer5=new Customer();
-        Customer customer6=new Customer();
-        Customer customer7=new Customer();
-        Customer customer8=new Customer();
-        Customer customer9=new Customer();
+        Customer customer5=new Customer(5, "Boris","Boris","Nikolajevich", "Moskow", 9039000,3456789);
+        Customer customer6=new Customer(6, "Prokopovich", "Piotr","Piotrovich","Dupa",3029000, 3452678);
+        Customer customer7=new Customer(7, "Azaronak", "Grisha", "Fisherovich", "Dupa", 1110000, 3645665);
+        Customer customer8=new Customer(8, "Jordan", "Mik", "Davidovich", "Nevada", 7583999,4356362);
+        Customer customer9=new Customer(9, "Lukash","Senja", "Lopuhovich", "London",4837283,465738);
         List<Customer> customers=new ArrayList<>();
         customers.add(customer1);
         customers.add(customer2);
