@@ -1,8 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String args[]) {
+        /*
 
         Student student1 = new Student("Петя", "Иванов", 20, 4, true);
         Student student2 = new Student("Мария", "Лепешко", 18, 1, false);
@@ -19,6 +21,8 @@ public class Main {
     }
 }
 
+         */
+
          /*
         Book book1 = new Book(12, "Oruel1984", 1948);
         Book book2 = new Book(34, "Peace by Peace", 1952);
@@ -32,3 +36,4 @@ public class Main {
 
         System.out.println();
     }}*/
+       }}
