@@ -10,6 +10,5 @@ public class TestClass {
     }
     public static int getSum(int a, int b){
         return  a+b;
-
     }
 }
